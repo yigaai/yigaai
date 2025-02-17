@@ -1,4 +1,4 @@
-- 👩🏻‍💻 Hey there, I’m @yigaai.  
+- 👩🏻‍💻 Hey there, I’m yigaai. How was your day? :)
 - 🧠 I’m interested in cognitive science & programming. 
 - 🤖 I’m currently learning python & R. 
 - 💞️ I’m looking to collaborate on ...
