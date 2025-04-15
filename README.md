@@ -1,10 +1,7 @@
-- 👩🏻‍💻 Hey there, I’m yigaai : ） 
-- 🧠 I’m interested in programming & data science & psychology. 
-- 🤖 I’m currently learning python & R. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👩🏻‍💻 Hey there, I’m Rosy. 
+- 🤖 Machine Learning & Probability & Uncertainty
+- 🧠 Neurology
+- 🌌 Heat Death & Local Order  
 
 <!---
 yigaai/yigaai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
