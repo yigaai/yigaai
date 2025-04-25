@@ -1,5 +1,5 @@
 - 👩🏻‍💻 Hey there, I’m Rosy. 
-- 🤖 Machine Learning & Probability & Uncertainty
+- 🤖 Data Analysis & Machine Learning & Algorithms 
 - 🧠 Neurology
 - 🌌 Heat Death & Local Order  
 
