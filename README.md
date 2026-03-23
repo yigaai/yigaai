@@ -1,6 +1,5 @@
-- 👩🏻‍💻 Hey there, I’m Rosy. 
+- 👩🏻‍💻 Hey there, Rosy. 
 - 🤖 Data Analysis & Machine Learning & Algorithms 
-- 🧠 Neurology
 - 🌌 Heat Death & Local Order  
 
 <!---
