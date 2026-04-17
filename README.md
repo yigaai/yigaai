@@ -1,6 +1,32 @@
-- 👩🏻‍💻 Hey there, Rosy. 
-- 🤖 Data Analysis & Machine Learning & Algorithms 
-- 🌌 Heat Death & Local Order  
+
+## Data Analysis
+
+- Statistical modeling (e.g., linear regression, moderation analysis)
+- Machine learning (e.g., scikit-learn) 
+- Data visualization  
+- Experimental design and behavioral data analysis
+
+I primarily use:
+`Python` | `R` 
+
+---
+
+
+## Social Studies of AI
+
+- The psychological impacts of AI interaction  
+
+
+---
+
+## Motto
+
+> *[]*
+
+---
+
+
+
 
 <!---
 yigaai/yigaai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
