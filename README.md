@@ -21,7 +21,7 @@ I primarily use:
 
 ## Motto
 
-> *[]*
+> *[To inherit and extend the knowledge of the past]* 
 
 ---
 
