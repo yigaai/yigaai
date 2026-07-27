@@ -9,13 +9,6 @@
 I primarily use:
 `Python` | `R` 
 
----
-
-
-## Social Studies of AI
-
-- The psychological impacts of AI interaction  
-
 
 ---
 
